@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ephraimgate
 - 👀 My interests are Python, Ethical Hacking, Data Science, Cybersecurity, Identity Asset Management (IAM) and Open Source
-- 🌱 I’m currently learning ... Comptia A+ and networking 
+
 - 📫 You can reach me here
